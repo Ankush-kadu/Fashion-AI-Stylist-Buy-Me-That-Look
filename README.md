@@ -5,7 +5,7 @@
 
     Have you ever looked at an Instagram model, or a model in a fashion e-commerce web-page, and thought “Wish I could get a list of fashion items similar to the ones worn by the model!”.
 
-    This is what I address in this project, where I will develop a computer vision based application to address the challenging problem of recommending similar fashion products. The idea of this project has been taken from the myntras's research paper .
+    This is what I address in this project, where I  developed a computer vision based application to address the challenging problem of recommending similar fashion products. The idea of this project has been taken from the myntras's research paper .
 
     My goal is to suggest similar clothing accessories to the one worn by the model in the input image.
 
