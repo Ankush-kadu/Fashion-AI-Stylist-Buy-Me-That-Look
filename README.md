@@ -76,7 +76,7 @@ I am using Selenium for web scraping in this project. Selenium is an open source
 ![uc](https://github.com/Ankush-kadu/Fashion-AI-Stylist-Buy-Me-That-Look/assets/107274024/90ecf38e-3a18-430e-b211-dbc6ef1618a5)
 
 
-there are various state-of-the-art object detection algorithms. But recall that low latency is one of our bussiness constraints. Thus i am using the YOLO algorithm. The YOLO algorithm has great inference speeds. It is used for object detection in real-time videos also.
+there are various state-of-the-art object detection algorithms. But low latency is one of our bussiness constraints. Thus i am using the YOLO algorithm. The YOLO algorithm has great inference speeds. It is used for object detection in real-time videos also.
 
 #  Feature Extraction and Similarity Search
 
@@ -86,7 +86,7 @@ i am using a pre-trained ResNet-50 model for our purpose.
 
 # find similar images
 
-For this project, i am using the KNN algorithm to find similar images. Simply put, we will train a nearest-neighbor model to find the nearest neighbors based on Euclidean distance.
+For this project, i am using the KNN algorithm to find similar images. Simply put, I will train a nearest-neighbor model to find the nearest neighbors based on Euclidean distance.
 
 
 
